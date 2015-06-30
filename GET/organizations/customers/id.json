@@ -1,0 +1,482 @@
+{
+  "contributorSystem": {
+    "key": "ARCHTICS",
+    "displays": {
+      "en-US": "Archtics"
+    },
+    "ownedByMe": false
+  },
+  "contributorSystemType": {
+    "key": "TICKETING",
+    "displays": {
+      "en-US": "Ticketing Module"
+    },
+    "ownedByMe": false
+  },
+  "id": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+  "givenName": "John",
+  "surname": "Blair",
+  "customerId": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+  "organizationId": "2631b21f-77d6-4f8f-8cf7-8dab675e6e33",
+  "gender": {
+    "key": "MALE",
+    "displays": {
+      "en-US": "Male"
+    },
+    "ownedByMe": false
+  },
+  "dateOfBirth": "11/7/1975",
+  "rightOfFirstRefusal": false,
+  "optedIn": false,
+  "_links": {
+    "addresses": "/customers/2d609c96-257f-443c-bd6e-8a29414eda9b/addresses",
+    "assets": "/customers/2d609c96-257f-443c-bd6e-8a29414eda9b/assets",
+    "aliases": "/customers/2d609c96-257f-443c-bd6e-8a29414eda9b/aliases",
+    "emails": "/customers/2d609c96-257f-443c-bd6e-8a29414eda9b/email-addresses",
+    "phones": "/customers/2d609c96-257f-443c-bd6e-8a29414eda9b/phones",
+    "representatives": "/organizations/customers/2d609c96-257f-443c-bd6e-8a29414eda9b/representatives",
+    "preferences": "/organizations/accounts/2d609c96-257f-443c-bd6e-8a29414eda9b/preference",
+    "ownedByMe": false
+  },
+  "representatives": [
+    {
+      "contributorSystem": {
+        "key": "ARCHTICS",
+        "displays": {
+          "en-US": "Archtics"
+        },
+        "ownedByMe": false
+      },
+      "contributorSystemType": {
+        "key": "TICKETING",
+        "displays": {
+          "en-US": "Ticketing Module"
+        },
+        "ownedByMe": false
+      },
+      "id": "5b15b2fc-da95-4544-9d70-c18dccef89c1",
+      "givenName": "SKC",
+      "surname": "Cust Support",
+      "personnelId": "4d23c6ff-8809-4e4a-8ee1-3a2cd912af39",
+      "ownedByMe": false
+    }
+  ],
+  "emails": [
+    {
+      "contributorSystem": {
+        "key": "DIMENSION",
+        "displays": {
+          "en-US": "Dimension"
+        },
+        "ownedByMe": false
+      },
+      "contributorSystemType": {
+        "key": "DIMENSION",
+        "displays": {
+          "en-US": "Dimension"
+        },
+        "ownedByMe": false
+      },
+      "id": "063fa1bb-150f-4976-b3e2-359f80b6273b",
+      "parentEntityId": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+      "email": "johnblair@example.com",
+      "type": {
+        "key": "PERSONAL",
+        "displays": {
+          "en-US": "Personal"
+        },
+        "ownedByMe": false
+      },
+      "status": {
+        "key": "UNVERIFIED",
+        "displays": {
+          "en-US": "Unverified"
+        },
+        "ownedByMe": false
+      },
+      "preferred": false,
+      "ownedByMe": false,
+      "lastUpdateDateTime": "2015-06-24T09:59:30-0500"
+    }
+  ],
+  "phones": [
+    {
+      "contributorSystem": {
+        "key": "DIMENSION",
+        "displays": {
+          "en-US": "Dimension"
+        },
+        "ownedByMe": false
+      },
+      "contributorSystemType": {
+        "key": "DIMENSION",
+        "displays": {
+          "en-US": "Dimension"
+        },
+        "ownedByMe": false
+      },
+      "id": "a8aa1617-1b5b-421a-a699-5830829298ec",
+      "number": "(555) 915-8787",
+      "countryCode": "UNITED STATES",
+      "type": {
+        "key": "CELL",
+        "displays": {
+          "en-US": "Cell"
+        },
+        "ownedByMe": false
+      },
+      "preferred": false,
+      "optedIn": false,
+      "customerId": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+      "ownedByMe": false,
+      "lastUpdateDateTime": "2015-06-24T10:00:01-0500"
+    },
+    {
+      "contributorSystem": {
+        "key": "ARCHTICS",
+        "displays": {
+          "en-US": "Archtics"
+        },
+        "ownedByMe": false
+      },
+      "contributorSystemType": {
+        "key": "TICKETING",
+        "displays": {
+          "en-US": "Ticketing Module"
+        },
+        "ownedByMe": false
+      },
+      "id": "c058bf89-c15b-44e5-a7c4-f9724f068e1f",
+      "number": "9159517536",
+      "countryCode": "UNITED_STATES",
+      "type": {
+        "key": "DAY",
+        "displays": {
+          "en-US": "Day"
+        },
+        "ownedByMe": false
+      },
+      "preferred": false,
+      "optedIn": false,
+      "customerId": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+      "ownedByMe": false,
+      "lastUpdateDateTime": "2014-06-26T22:26:11-0500"
+    }
+  ],
+  "aliases": [
+    {
+      "contributorSystem": {
+        "key": "DIMENSION",
+        "displays": {
+          "en-US": "Dimension"
+        },
+        "ownedByMe": false
+      },
+      "contributorSystemType": {
+        "key": "DIMENSION",
+        "displays": {
+          "en-US": "Dimension"
+        },
+        "ownedByMe": false
+      },
+      "id": "b6878985-2f3b-4e7d-badb-a9cca3431536",
+      "value": "@johnB72",
+      "type": {
+        "key": "TWITTER",
+        "displays": {
+          "en-US": "Twitter"
+        },
+        "ownedByMe": false
+      },
+      "subtype": {
+        "key": "HOME",
+        "displays": {
+          "en-US": "Home"
+        },
+        "ownedByMe": false
+      },
+      "customerId": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+      "ownedByMe": false,
+      "lastUpdateDateTime": "2015-06-24T09:55:48-0500"
+    },
+    {
+      "contributorSystem": {
+        "key": "ARCHTICS",
+        "displays": {
+          "en-US": "Archtics"
+        },
+        "ownedByMe": false
+      },
+      "contributorSystemType": {
+        "key": "TICKETING",
+        "displays": {
+          "en-US": "Ticketing Module"
+        },
+        "ownedByMe": false
+      },
+      "id": "9d403186-4bb8-41a3-813b-c3963d5d0626",
+      "value": "857995",
+      "type": {
+        "key": "TICKETING_ID",
+        "displays": {
+          "en-US": "Ticketing ID"
+        },
+        "ownedByMe": false
+      },
+      "customerId": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+      "ownedByMe": false,
+      "lastUpdateDateTime": "2014-06-26T22:24:59-0500"
+    }
+  ],
+  "addresses": [
+    {
+      "contributorSystem": {
+        "key": "ARCHTICS",
+        "displays": {
+          "en-US": "Archtics"
+        },
+        "ownedByMe": false
+      },
+      "contributorSystemType": {
+        "key": "TICKETING",
+        "displays": {
+          "en-US": "Ticketing Module"
+        },
+        "ownedByMe": false
+      },
+      "id": "d51f72d1-62a9-4780-8a42-c675a2db8e87",
+      "line1": "2753 West zebra AVE",
+      "municipality": "Independence",
+      "postalCode": "64052",
+      "postal": "64052",
+      "country": {
+        "key": "UNITED_STATES",
+        "displays": {
+          "en-US": "United States"
+        },
+        "ownedByMe": false
+      },
+      "district": {
+        "key": "MISSOURI",
+        "displays": {
+          "en-US": "Missouri"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "UNKNOWN",
+        "displays": {
+          "en-US": "Unknown"
+        },
+        "ownedByMe": false
+      },
+      "preferred": false,
+      "customerId": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+      "ownedByMe": false,
+      "lastUpdateDateTime": "2015-06-24T09:56:57-0500"
+    }
+  ],
+  "totalLinkedProfiles": 0,
+  "matchingSmartGroups": [
+    {
+      "id": "2bec1f07-6b65-4fcf-9ea8-7316e263c7fe",
+      "orgId": "2631b21f-77d6-4f8f-8cf7-8dab675e6e33",
+      "name": "Male",
+      "ownerId": "f7f31427-1285-4540-8248-fae29bf6d065",
+      "ownerType": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "DEFAULT",
+        "displays": {
+          "en-US": "Default"
+        },
+        "ownedByMe": false
+      },
+      "category": {
+        "key": "DEMOGRAPHIC",
+        "displays": {
+          "en-US": "Demographic"
+        },
+        "ownedByMe": false
+      },
+      "sharingScope": {
+        "key": "GLOBAL",
+        "displays": {
+          "en-US": "GLOBAL"
+        },
+        "ownedByMe": false
+      },
+      "ownedByMe": false,
+      "createDateTime": "2015-06-30T08:54:15-0500"
+    },
+    {
+      "id": "33c7d390-8b4e-4586-97e4-c49822f63a77",
+      "orgId": "2631b21f-77d6-4f8f-8cf7-8dab675e6e33",
+      "name": "Middle-Aged",
+      "ownerId": "8bae5a4d-7839-41e1-b61a-2a17f72fa290",
+      "ownerType": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "DEFAULT",
+        "displays": {
+          "en-US": "Default"
+        },
+        "ownedByMe": false
+      },
+      "category": {
+        "key": "DEMOGRAPHIC",
+        "displays": {
+          "en-US": "Demographic"
+        },
+        "ownedByMe": false
+      },
+      "sharingScope": {
+        "key": "GLOBAL",
+        "displays": {
+          "en-US": "GLOBAL"
+        },
+        "ownedByMe": false
+      },
+      "campaignLaunchDTO": {
+        "campaignid": "aab21c5e-2573-44c5-9b15-23e177f4f05c",
+        "title": "middle-age",
+        "ownedByMe": false,
+        "createDateTime": "2015-02-01T23:09:24-0600"
+      },
+      "ownedByMe": false,
+      "createDateTime": "2015-02-01T23:08:38-0600"
+    },
+    {
+      "id": "1bcdb62f-ada5-413c-91a2-2774a9ff8583",
+      "orgId": "2631b21f-77d6-4f8f-8cf7-8dab675e6e33",
+      "name": "asdsad",
+      "ownerId": "7ff30f7d-78af-4e12-ac3c-42ff8965e2c1",
+      "ownerType": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "category": {
+        "key": "CUSTOMER_SERVICE",
+        "displays": {
+          "en-US": "Customer Service"
+        },
+        "ownedByMe": false
+      },
+      "sharingScope": {
+        "key": "ORGANIZATION",
+        "displays": {
+          "en-US": "Organization"
+        },
+        "ownedByMe": false
+      },
+      "ownedByMe": false,
+      "createDateTime": "2015-06-16T03:19:35-0500"
+    },
+    {
+      "id": "d9eb131f-ca9f-428a-bfe2-f6cd6c6bcaaf",
+      "orgId": "2631b21f-77d6-4f8f-8cf7-8dab675e6e33",
+      "name": "test",
+      "ownerId": "7ff30f7d-78af-4e12-ac3c-42ff8965e2c1",
+      "ownerType": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "category": {
+        "key": "CUSTOMER_SERVICE",
+        "displays": {
+          "en-US": "Customer Service"
+        },
+        "ownedByMe": false
+      },
+      "sharingScope": {
+        "key": "PERSONNEL",
+        "displays": {
+          "en-US": "Personnel"
+        },
+        "ownedByMe": false
+      },
+      "campaignLaunchDTO": {
+        "campaignid": "0b39ce9f-9ee6-400b-a49c-d91bf6444619",
+        "title": "test 1234",
+        "ownedByMe": false,
+        "createDateTime": "2015-06-09T07:17:11-0500"
+      },
+      "ownedByMe": false,
+      "createDateTime": "2015-06-08T11:40:49-0500"
+    },
+    {
+      "id": "3ad1c5ea-f732-4e71-82b3-d1c11fc23e9a",
+      "orgId": "2631b21f-77d6-4f8f-8cf7-8dab675e6e33",
+      "name": "Test the events purchased",
+      "ownerId": "7ff30f7d-78af-4e12-ac3c-42ff8965e2c1",
+      "ownerType": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "USER",
+        "displays": {
+          "en-US": "User"
+        },
+        "ownedByMe": false
+      },
+      "category": {
+        "key": "DEMOGRAPHIC",
+        "displays": {
+          "en-US": "Demographic"
+        },
+        "ownedByMe": false
+      },
+      "sharingScope": {
+        "key": "ORGANIZATION",
+        "displays": {
+          "en-US": "Organization"
+        },
+        "ownedByMe": false
+      },
+      "campaignLaunchDTO": {
+        "campaignid": "1b0c9fa0-6e39-411e-aa41-9b9029c68934",
+        "title": "test",
+        "ownedByMe": false,
+        "createDateTime": "2015-06-09T03:13:17-0500"
+      },
+      "ownedByMe": false,
+      "createDateTime": "2015-06-09T03:00:55-0500"
+    }
+  ],
+  "ownedByMe": false,
+  "lastUpdateDateTime": "2015-06-24T09:57:20-0500"
+}

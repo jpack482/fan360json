@@ -1,0 +1,39 @@
+{
+  "linkedProfileIds": [
+    "2d609c96-257f-443c-bd6e-8a29414eda9b"
+  ],
+  "masterProfile": {
+    "contributorSystem": {
+      "name": {
+        "key": "ARCHTICS",
+        "displays": {
+          "en-US": "Archtics"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "TICKETING",
+        "displays": {
+          "en-US": "Ticketing Module"
+        },
+        "ownedByMe": false
+      },
+      "id": "bc7e8cb0-a043-11e3-a5e2-0800200c9a66",
+      "createDateTime": "2014-08-21T18:25:17-0500",
+      "updateDateTime": "2014-08-21T18:25:17-0500"
+    },
+    "id": "2d609c96-257f-443c-bd6e-8a29414eda9b",
+    "givenName": "John",
+    "surname": "Blair",
+    "gender": {
+      "key": "MALE",
+      "displays": {
+        "en-US": "Male"
+      },
+      "ownedByMe": false
+    },
+    "dateOfBirth": "11/7/1975",
+    "createDateTime": "2014-06-26T22:24:59-0500",
+    "updateDateTime": "2015-06-24T09:57:20-0500"
+  }
+}
