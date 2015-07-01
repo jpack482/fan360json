@@ -1,0 +1,172 @@
+{
+  "linkedProfileIds": [
+    "e25f3c92-568f-45d4-82df-d4feb73210b2"
+  ],
+  "masterProfile": {
+    "contributorSystem": {
+      "name": {
+        "key": "ARCHTICS",
+        "displays": {
+          "en-US": "Archtics"
+        },
+        "ownedByMe": false
+      },
+      "type": {
+        "key": "TICKETING",
+        "displays": {
+          "en-US": "Ticketing Module"
+        },
+        "ownedByMe": false
+      },
+      "id": "bc7e8cb0-a043-11e3-a5e2-0800200c9a66",
+      "createDateTime": "2014-08-21T18:25:17-0500",
+      "updateDateTime": "2014-08-21T18:25:17-0500"
+    },
+    "id": "e25f3c92-568f-45d4-82df-d4feb73210b2",
+    "givenName": "Marybelle",
+    "surname": "Greenleaf",
+    "dateOfBirth": "7/23/1978",
+    "emails": [
+      {
+        "contributorSystem": {
+          "name": {
+            "key": "ARCHTICS",
+            "displays": {
+              "en-US": "Archtics"
+            },
+            "ownedByMe": false
+          },
+          "type": {
+            "key": "TICKETING",
+            "displays": {
+              "en-US": "Ticketing Module"
+            },
+            "ownedByMe": false
+          },
+          "id": "bc7e8cb0-a043-11e3-a5e2-0800200c9a66",
+          "createDateTime": "2014-08-21T18:25:17-0500",
+          "updateDateTime": "2014-08-21T18:25:17-0500"
+        },
+        "id": "6e839e5b-5ce8-4bed-b24b-4e706e2c61ec",
+        "email": "skating@nurfuerspam.de",
+        "type": {
+          "key": "UNKNOWN",
+          "displays": {
+            "en-US": "Unknown"
+          },
+          "ownedByMe": false
+        },
+        "status": {
+          "key": "UNVERIFIED",
+          "displays": {
+            "en-US": "Unverified"
+          },
+          "ownedByMe": false
+        },
+        "preferred": false,
+        "createDateTime": "2014-07-29T01:09:22-0500",
+        "updateDateTime": "2014-07-29T01:09:22-0500"
+      }
+    ],
+    "addresses": [
+      {
+        "id": "4e975a24-c8b8-4142-98d2-b698a72ec352",
+        "line1": "1701 W cricket ST",
+        "municipality": "Iola",
+        "postalCode": "66749",
+        "country": {
+          "key": "UNITED_STATES",
+          "displays": {
+            "en-US": "United States"
+          },
+          "ownedByMe": false
+        },
+        "district": {
+          "key": "DISTRICT_OF_COLUMBIA",
+          "displays": {
+            "en-US": "District of Columbia"
+          },
+          "ownedByMe": false
+        },
+        "type": {
+          "key": "UNKNOWN",
+          "displays": {
+            "en-US": "Unknown"
+          },
+          "ownedByMe": false
+        },
+        "preferred": false,
+        "createDateTime": "2014-07-28T17:41:57-0500",
+        "updateDateTime": "2015-06-24T15:46:59-0500"
+      }
+    ],
+    "phones": [
+      {
+        "id": "d0573109-877f-4a8e-93e4-02e55253a69b",
+        "number": "(210) 948-9543",
+        "countryCode": "UNITED_STATES",
+        "type": {
+          "key": "DAY",
+          "displays": {
+            "en-US": "Day"
+          },
+          "ownedByMe": false
+        },
+        "preferred": false,
+        "createDateTime": "2014-07-28T23:52:24-0500",
+        "updateDateTime": "2014-07-28T23:52:24-0500"
+      }
+    ],
+    "representatives": [
+      {
+        "contributorSystem": {
+          "name": {
+            "key": "DIMENSION",
+            "displays": {
+              "en-US": "Dimension"
+            },
+            "ownedByMe": false
+          },
+          "type": {
+            "key": "DIMENSION",
+            "displays": {
+              "en-US": "Dimension"
+            },
+            "ownedByMe": false
+          },
+          "id": "a5bb0fe1-1306-410b-bfdb-de3107827ac5",
+          "createDateTime": "2014-05-10T00:41:46-0500",
+          "updateDateTime": "2014-05-10T00:41:46-0500"
+        },
+        "id": "13e605a4-f6ed-4e2a-b217-7016131077d7",
+        "type": {
+          "key": "PRIMARY",
+          "displays": {
+            "en-US": "Primary"
+          },
+          "ownedByMe": false
+        },
+        "createDateTime": "2015-06-24T15:46:59-0500",
+        "updateDateTime": "2015-06-24T15:46:59-0500",
+        "startDateTime": "2015-06-24T15:46:59-0500"
+      }
+    ],
+    "aliases": [
+      {
+        "id": "ce31c268-5715-47ea-ba1d-e0fae39b46bb",
+        "value": "1891846",
+        "type": {
+          "key": "TICKETING_ID",
+          "displays": {
+            "en-US": "Ticketing ID"
+          },
+          "ownedByMe": false
+        },
+        "createDateTime": "2014-07-28T10:39:26-0500",
+        "updateDateTime": "2014-07-28T10:39:26-0500"
+      }
+    ],
+    "createDateTime": "2014-07-28T10:39:25-0500",
+    "updateDateTime": "2014-07-28T10:39:25-0500"
+  }
+}
